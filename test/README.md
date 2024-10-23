@@ -13,3 +13,7 @@ make test
 gcc out.s
 
 ./a.out
+
+
+See also:
+- https://www.sigbus.info/compilerbook which has somewhat similar approach
